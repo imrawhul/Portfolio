@@ -133,7 +133,7 @@ close.addEventListener("click", () => {
 
 gsap.to(".scroller", {
   x: "-100%",
-  duration: 7,
+  duration: 15,
   repeat: -1,
   ease: "none",
 });
